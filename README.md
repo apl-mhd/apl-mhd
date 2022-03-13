@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apl-mhd)](https://github.com/apl-mhd/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apl-mhd&hide=javascript,css,scss,html&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=apl-mhd)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
