@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apl-mhd)](https://github.com/apl-mhd/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=apl-mhd)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=apl-mhd&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
