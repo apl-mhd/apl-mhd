@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apel Mahmud  
 
-🚀 **Live Deployment on AWS:** [Student Management System](http://3.89.205.102:3000/)  
+🚀 **Live Deployment on AWS:** [Edu Hub](http://3.89.205.102:3000/)  
 
 🌐 **Portfolio:** [apl-mhd.github.io](https://apl-mhd.github.io/)  
 
@@ -20,7 +20,11 @@ I’m passionate about building scalable backend systems, automating deployments
 ---
 
 ## 📂 Featured Projects  
-- 🎓 **[Student Management System (Live on AWS)](http://3.89.205.102:3000/)** – Django + Vue.js based system for managing student enrollments, payments, courses, and more.  
+- 🎓 **[Edu Hub](https://github.com/apl-mhd/edu-hub)**  
+  - **Live on AWS:** [edu-hub](http://3.89.205.102:3000/)  
+  - **Tech Stack:** Python, Django, Vue.js, PostgreSQL  
+  - Comprehensive student management platform with enrollment, payments, and course tracking.  
+
 - 🏪 **Inventory Management System** – Full-featured backend to handle stock, sales, and reporting.  
 - 🍴 **Restaurant Billing System** – FastAPI powered solution for order processing and bill generation.  
 - ❄️ **Cold Storage Management Software** – Designed for product storage and customer billing automation.  
