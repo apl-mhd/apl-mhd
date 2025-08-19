@@ -1,25 +1,47 @@
-### Hi there 👋
+# 👋 Hi, I'm Apel Mahmud  
 
-<!--
-**apl-mhd/apl-mhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Live Deployment on AWS:** [Student Management System](http://3.89.205.102:3000/)  
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [apl-mhd.github.io](https://apl-mhd.github.io/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apl-mhd)](https://github.com/apl-mhd/github-readme-stats)
+💻 **Backend Developer | DevOps Enthusiast | Pythonista**  
 
--->
+I’m passionate about building scalable backend systems, automating deployments, and creating efficient development workflows. My core strengths lie in **Python**, **Django**, **FastAPI**, and **DevOps practices**.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apl-mhd)](https://github.com/apl-mhd/github-readme-stats)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=apl-mhd&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+---
 
+## 🔧 Technologies & Tools  
+- **Languages:** Python, JavaScript, SQL, Bash  
+- **Backend Frameworks:** Django, FastAPI, DRF  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **DevOps & Cloud:** Docker, Docker Compose, Nginx, GitHub Actions, AWS (EC2, S3), CI/CD  
+- **Other Tools:** Git, Linux, REST APIs, Vue.js (basics)  
 
+---
 
+## 📂 Featured Projects  
+- 🎓 **[Student Management System (Live on AWS)](http://3.89.205.102:3000/)** – Django + Vue.js based system for managing student enrollments, payments, courses, and more.  
+- 🏪 **Inventory Management System** – Full-featured backend to handle stock, sales, and reporting.  
+- 🍴 **Restaurant Billing System** – FastAPI powered solution for order processing and bill generation.  
+- ❄️ **Cold Storage Management Software** – Designed for product storage and customer billing automation.  
+
+👉 Check out more projects on my [Repositories](https://github.com/apl-mhd?tab=repositories).  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apl-mhd&show_icons=true&theme=tokyonight" alt="Apel Mahmud's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apl-mhd&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+- 💼 LinkedIn: [Md. Apel Mahmud](https://www.linkedin.com/in/md-apel-mahmud-620b12198/)  
+- 📧 Email: apelmahmudcse01@gmail.com  
+
+---
+
+✨ *Always exploring DevOps, cloud, and backend optimizations to deliver reliable software solutions.*  
